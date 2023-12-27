@@ -1,0 +1,3 @@
+./p_FCFS 7 0 A &
+./p_FCFS 5 1 B &
+./p_FCFS 3 2 C &

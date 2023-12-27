@@ -1,0 +1,18 @@
+Script started on 2023-12-02 18:23:46+0900
+]0;eunjin@eunjin-VirtualBox: /usr/src/linux-4.20.11[01;32meunjin@eunjin-VirtualBox[00m:[01;34m/usr/src/linux-4.20.11[00m$ ./run)R[K[K_RR
+]0;eunjin@eunjin-VirtualBox: /usr/src/linux-4.20.11[01;32meunjin@eunjin-VirtualBox[00m:[01;34m/usr/src/linux-4.20.11[00m$ 
+Process A : I will use CPU by 7s.
+
+Process B : I will use CPU by 5s.
+
+Process C : I will use CPU by 3s.
+
+Process C : Finish! My total wait time is 5s. 
+
+Process B : Finish! My total wait time is 7s. 
+
+Process A : Finish! My total wait time is 8s. 
+^C
+]0;eunjin@eunjin-VirtualBox: /usr/src/linux-4.20.11[01;32meunjin@eunjin-VirtualBox[00m:[01;34m/usr/src/linux-4.20.11[00m$ exit
+
+Script done on 2023-12-02 18:24:08+0900
